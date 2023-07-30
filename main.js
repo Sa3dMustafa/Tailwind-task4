@@ -20,15 +20,15 @@ const upArrow = optionElement.querySelector(".up");
 const downArrow = optionElement.querySelector(".down");
 
 function showMenu() {
-    menuElement.classList.remove("hidden");
-    upArrow.classList.remove("hidden");
-    downArrow.classList.add("hidden");
+    menuElement.classList.remove("hidde");
+    upArrow.classList.remove("hidde");
+    downArrow.classList.add("hidde");
 }
 
 function hideMenu() {
-    menuElement.classList.add("hidden");
-    upArrow.classList.add("hidden");
-    downArrow.classList.remove("hidden");
+    menuElement.classList.add("hidde");
+    upArrow.classList.add("hidde");
+    downArrow.classList.remove("hidde");
 }
 
 upArrow.onclick = hideMenu;

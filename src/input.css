@@ -21,3 +21,6 @@ nav ul li ul li{
 nav ul li:nth-child(1) i{
     cursor: pointer;
 }
+.hidde{
+    display: none !important;
+}
