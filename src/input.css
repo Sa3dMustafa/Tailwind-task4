@@ -8,3 +8,13 @@
         top: 0 !important;
     }
 }
+
+nav ul li ul img {
+    margin-right: 10px !important;
+}
+nav ul li ul li{
+    cursor: pointer;
+}
+nav ul li:nth-child(1) i{
+    cursor: pointer;
+}
