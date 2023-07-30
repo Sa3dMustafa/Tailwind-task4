@@ -18,7 +18,7 @@ nav ul li ul img {
 nav ul li ul li{
     cursor: pointer;
 }
-nav ul li:nth-child(1) i{
+nav ul li:nth-child(1) a i{
     cursor: pointer;
     padding-top: 6px !important;
     margin-left: 6px !important;
