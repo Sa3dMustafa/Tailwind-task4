@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@media (min-width: 1024px){
+    header div nav{
+        position: relative !important;
+        top: 0 !important;
+    }
+}
