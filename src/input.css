@@ -20,6 +20,8 @@ nav ul li ul li{
 }
 nav ul li:nth-child(1) i{
     cursor: pointer;
+    padding-top: 6px !important;
+    margin-left: 6px !important;
 }
 .hidde{
     display: none !important;
